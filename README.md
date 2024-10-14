@@ -1,4 +1,4 @@
 # satyamsharmademo
 This is my first Git Repository
 <br>
-Author Satyam Sharma
+Author Satyam Sharma <satyam>
